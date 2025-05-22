@@ -22,7 +22,7 @@
 
 ### 🐾 Motto
 
-> "Life’s too short to do things manually. Automate it or regret it."
+> “人生苦短，能自动化就别手动。”
 
 ---
 
